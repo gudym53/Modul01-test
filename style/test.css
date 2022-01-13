@@ -38,9 +38,14 @@ body {
      padding-left: 0;
      margin: 0;
  }
- ul > li {
+ ul>li {
      margin-right: 30px;
  }
+
+ ul>li:last-child {
+     margin-right: 0;
+ }
+
  .box {
      display: flex;
      margin-bottom: 30px;
@@ -53,9 +58,10 @@ body {
  }
  
  .section {
-     background-color: lavender;
-     padding: 5px 20px;
-     margin-bottom: 20px;
+     background-color: rebeccapurple;
+     padding: 8px 15px;
+     margin-left: 0px;
+     color: white;
  }
  
  .post {
