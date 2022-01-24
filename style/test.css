@@ -59,14 +59,14 @@ body {
 
 section {
       background-color: lavender;
-      padding: 10px 20px;
+      padding: 5px 20px;
       margin-bottom: 20px;
 }
  
  .link {
      background-color: rebeccapurple;
      padding: 8px 15px;
-     margin-left: 0px;
+     margin-left: 10px;
      color: white;
  }
  
